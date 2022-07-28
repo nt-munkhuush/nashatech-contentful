@@ -1,4 +1,4 @@
-<template>
+<template> 
   <section class="container">
     <p class="back">
       <nuxt-link exact to="/">⟵ Back to Home</nuxt-link>

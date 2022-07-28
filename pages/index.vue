@@ -1,4 +1,4 @@
-<template>
+<template> 
   <main>
     <div class="container">
       <h1 class="title">Paw Waves</h1>
